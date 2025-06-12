@@ -54,12 +54,12 @@ pip install numpy matplotlib
 1. Clona el repositorio:
 
    ```bash
-   ```
-
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+ git clone [[https://github.com/tu-usuario/tu-repositorio.git](https://github.com/danip11/Codigos-polimero-ideal-real.git)]([https://github.com/tu-usuario/tu-repositorio.git](https://github.com/danip11/Codigos-polimero-ideal-real.git))
 cd tu-repositorio
 
-````
+   
+   ```
+
 
 2. Ejecuta **PolimeroIdeal.py**:
 
