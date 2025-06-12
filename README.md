@@ -4,7 +4,7 @@
 Este repositorio contiene dos scripts en Python para la simulación de cadenas poliméricas en 3D:
 
 * **PolimeroIdeal.py**: Modelo de cadena libremente unida (Random Walk 3D).
-* **PolimeroRealPivote.py**: Migración Monte Carlo de cadenas auto-evitantes (Self-Avoiding Walk, SAW) usando el algoritmo de pivote.
+* **PolimeroRealPivote.py**: cadenas auto-evitantes (Self-Avoiding Walk, SAW) usando el algoritmo de pivote.
 
 ---
 
